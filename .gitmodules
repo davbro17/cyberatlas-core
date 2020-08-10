@@ -6,3 +6,7 @@
 	path = src/core
 	url = https://github.com/davbro17/cyberatlas-core.git
 	branch = src-core
+[submodule "tests"]
+	path = tests
+	url = https://github.com/davbro17/cyberatlas-core.git
+	branch = tests
